@@ -1,0 +1,13 @@
+From https://learnopengl.com/
+    Container-diffuse.png
+    Container-emission.png
+    Container-specular.png
+
+From Wikimedia Commons
+    OpenGL logo.png
+
+From Blender
+    UV test.png
+
+From https://www.hiclipart.com/
+    Wind-waves.png
